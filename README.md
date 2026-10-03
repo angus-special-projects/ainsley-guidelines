@@ -12,7 +12,7 @@ The content is organized into small packages so that general standards can be re
 - `fastapi/` — FastAPI guidance that builds on `python`
 - `go/` — Go guidance that builds on `core`
 
-Each package has a `manifest.yaml` that defines its name, version, and any dependencies.
+Each package has a `manifest.yaml` that defines its name, version, type and any dependencies.
 
 ## Available guidance
 
