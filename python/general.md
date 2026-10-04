@@ -2,6 +2,10 @@
 
 These guidelines build on the core standards and apply to Python code in this repository.
 
+# A new section
+
+A new section here
+
 ## Project structure
 
 - Organize code into small, focused modules.
